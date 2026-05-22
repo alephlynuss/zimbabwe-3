@@ -1,6 +1,6 @@
 
 game.png
-size: 512, 128
+size: 511, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
@@ -20,10 +20,10 @@ BuildingIcons/Holodeck
   index: -1
 NationIcons/Aliens
   rotate: false
-  xy: 25, 25
-  size: 99, 95
-  orig: 99, 95
-  offset: 25, 25
+  xy: 32, 32
+  size: 100, 100
+  orig: 100, 100
+  offset: 32, 32
   index: -1
 UnitIcons/Phasers
   rotate: false
