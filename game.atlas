@@ -20,9 +20,9 @@ BuildingIcons/Holodeck
   index: -1
 NationIcons/Aliens
   rotate: false
-  xy: 4, 4
-  size: 100, 100
-  orig: 100, 100
+  xy: 0, 0
+  size: 99, 95
+  orig: 99, 95
   offset: 0, 0
   index: -1
 UnitIcons/Phasers
