@@ -23,7 +23,7 @@ NationIcons/Aliens
   xy: 0, 0
   size: 99, 95
   orig: 99, 95
-  offset: 0, 0
+  offset: 25, 25
   index: -1
 UnitIcons/Phasers
   rotate: false
